@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BH1730FVC-TR")(type "KiCad")(uri "${KIPRJMOD}/Components/BH1730FVC-TR")(options "")(descr ""))
+)

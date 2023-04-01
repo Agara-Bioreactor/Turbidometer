@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BH1730FVC-TR")(type "KiCad")(uri "${KIPRJMOD}/Components/BH1730FVC-TR/BH1730FVC-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "NLSX4373DR2G")(type "Legacy")(uri "${KIPRJMOD}/Components/NLSX4373DR2G/NLSX4373DR2G.lib")(options "")(descr ""))
+)

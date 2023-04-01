@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BH1730FVC-TR
+D Optical Sensor Ambient 600nm IC 6-SMD, Flat Lead Exposed Pad,	 -40C ~ 85C.
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/ic/sensor/light/bh1730fvc-e.pdf
+$ENDCMP
+#
+#End Doc Library
